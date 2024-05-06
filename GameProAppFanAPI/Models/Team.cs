@@ -2,6 +2,9 @@
 
 namespace GameProAppFanAPI.Models
 {
+    /// <summary>
+    /// Lvina Drocetskaya
+    /// </summary>
     public class Team
     {
         [Key]
